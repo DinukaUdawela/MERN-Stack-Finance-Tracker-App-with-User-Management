@@ -9,6 +9,7 @@ This project is a web application for tracking financial transactions built usin
 - Display income, expense, and balance
 - Visualize transactions with charts
 - Responsive user interface
+- Easy to understand 
 
 ## Getting Started
 
@@ -54,3 +55,5 @@ Create a new branch: git checkout -b feature-branch-name
 Make your changes and commit them: git commit -m 'Add new feature'
 Push to the branch: git push origin feature-branch-name
 Submit a pull request.
+
+
